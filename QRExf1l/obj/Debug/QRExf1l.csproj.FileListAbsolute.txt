@@ -1,0 +1,12 @@
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\obj\Debug\QRExf1l.csprojAssemblyReference.cache
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\obj\Debug\QRExf1l.Form1.resources
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\obj\Debug\QRExf1l.Properties.Resources.resources
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\obj\Debug\QRExf1l.csproj.GenerateResource.cache
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\obj\Debug\QRExf1l.csproj.CoreCompileInputs.cache
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\bin\Debug\QRExf1l.exe.config
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\bin\Debug\QRExf1l.exe
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\bin\Debug\QRExf1l.pdb
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\bin\Debug\QRCoder.dll
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\obj\Debug\QRExf1l.csproj.CopyComplete
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\obj\Debug\QRExf1l.exe
+C:\Users\mvaliente\source\repos\QRExf1l\QRExf1l\obj\Debug\QRExf1l.pdb
